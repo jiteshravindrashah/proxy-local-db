@@ -1,0 +1,10 @@
+define category HTTP_Whitelist
+yahoo.com
+amazon.com
+google.com
+end
+
+define category Whitelist
+url.category=Finance
+url.category=Technology/Internet
+end
