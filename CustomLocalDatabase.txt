@@ -1,13 +1,14 @@
 define category HTTP_Whitelist;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
-yahoo.com;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
-amazon.com;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
-google.com;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+yahoo.com ;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+amazon.com ;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+google.com ;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
 end;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
 
 define category Whitelist;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
-cisco.com;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
-gambling.com;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
-purple.com;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+cisco.com ;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+gambling.com ;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+purple.com ;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
 end;a;05/26/2022#SOC ACD APAC Phishing domain blocked ;; CHG0006028564
+
 
 
