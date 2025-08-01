@@ -5,6 +5,7 @@ google.com
 end
 
 define category Whitelist
-url.category=Finance
-url.category=Technology/Internet
+cisco.com
+gambling.com
+purple.com
 end
